@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+I like:
+* Too much things that I have time for
+* Political thriller books
+* React
